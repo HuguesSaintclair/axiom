@@ -86,7 +86,7 @@
                                             <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:'.$a.'%;"> <span class="sr-only">230% Complete</span> </div>
                                         '; ?>
                                         </div>
-                                        <a class="follow-cards" href="home_eleve.php?page=lecon&ue=<?=$ue ?>">Faire cours</a>
+                                        <a class="follow-cards" href="home_eleve.php?page=programme&ue=<?=$ue ?>">Faire cours</a>
                                     </div>
                                 </div>
                             </div>
